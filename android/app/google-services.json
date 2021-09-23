@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19011657106",
+    "project_id": "flutter-fb-git",
+    "storage_bucket": "flutter-fb-git.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19011657106:android:53d2fe4ca506c54096f54b",
+        "android_client_info": {
+          "package_name": "app.jhernandez.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19011657106-p9qesvq3ad1f435fai562657o0kfeoa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbWwWCFaz7WdFSGGnTegr9a_TOGgXP1uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19011657106-p9qesvq3ad1f435fai562657o0kfeoa7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
